@@ -6,3 +6,7 @@ Python script to find the (3) best dyes to choose from a variety of Guild Wars 2
 2. Add your account API to the `apiKey` string on line 218
 3. run the python script
 4. choose the dye pack from the provided menu
+
+## Demo
+![image](https://github.com/user-attachments/assets/978e5739-c8e2-41fb-99ec-dab21e2af405)
+
